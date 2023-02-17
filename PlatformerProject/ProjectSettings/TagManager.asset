@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Graund
+  - grauded
+  - graunded
+  - boll
+  - Atack
+  - Fireboll
+  - Enemy
+  - trap
+  - Trap
+  - Arrow
+  - Sword
+  - HpEnemyElf
+  - Money
+  - Heart
+  - Sing
+  - EnemyBody
+  - Start
+  - Respawn01
+  - Respawn02
+  - MovingPlatform
+  - Block
+  - Apple
+  - AppelToCollect
+  - ShotButton
+  - ScrollActive
+  - TextAppel
+  - ' Platform001'
+  - Platform002
+  - Platform003
+  - ScrollTeg001
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - PlayerLayer
+  - MovingPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
